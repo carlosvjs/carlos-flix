@@ -1,0 +1,28 @@
+RETOMAR - PARTE 7 a partir do minuto 15
+objetivo da aula - criar um clone da Netflix, com responsividade
+
+
+extensões recomendadas para executar esse projeto
+- live server (rodar o frontend como local host)
+- auto rename tag (ajuda na manipulação das tags)
+- dracula theme
+
+nav-bar - Menú de navegação de um site
+caixa = container
+
+boa prática para estilização é fazer o reset css. Com ele garantimos que a página tenha um padding igual em qualquer navegador que ela for aberta.
+
+
+https://kit.fontawesome.com/97f8b1b79e.js - bibliotecas de ícones gratis 
+https://www.themoviedb.org/?language=pt-BR - site para buscar informações de filmes e séries para projetos
+owlcarousel2 - jQuery plugin para ciração de responsive carusel slider - 
+https://owlcarousel2.github.io/OwlCarousel2/demos/basic.html - carousel utilizado no projeto
+
+
+Desafios extras para o projeto:
+- Dar vida aos botões em tela
+- Fazer uma nova roupagem (mudar layout, imagens e fontes)
+- Fazer algumas personalizações
+
+
+
